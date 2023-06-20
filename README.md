@@ -20,11 +20,11 @@ This lab provides an overview of how to create a  workflow environment involved 
 
 <p align="center">
 Launch the utility: <br/>
-<img src=https://i.imgur.com/fBKyAYC.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/fBKyAYC.png height="80%" width="80%" alt="Adding Agents"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src=https://i.imgur.com/yFounLi.pngheight="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/xhHtkna.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
